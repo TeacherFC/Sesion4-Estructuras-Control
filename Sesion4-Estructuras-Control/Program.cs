@@ -1,8 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-int nNumero = -1000;
-Double nnDecimal = 12.01;
+int nNumero = 0;
+Console.WriteLine("Ingrese un numero:");
+nNumero = int.Parse(Console.ReadLine());
+
 if (nNumero > 12)
     Console.WriteLine("El numero es mayor a 12");
 else

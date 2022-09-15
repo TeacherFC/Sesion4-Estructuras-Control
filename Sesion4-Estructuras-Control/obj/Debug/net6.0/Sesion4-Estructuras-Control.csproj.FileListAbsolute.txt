@@ -1,0 +1,15 @@
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\bin\Debug\net6.0\Sesion4-Estructuras-Control.exe
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\bin\Debug\net6.0\Sesion4-Estructuras-Control.deps.json
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\bin\Debug\net6.0\Sesion4-Estructuras-Control.runtimeconfig.json
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\bin\Debug\net6.0\Sesion4-Estructuras-Control.dll
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\bin\Debug\net6.0\Sesion4-Estructuras-Control.pdb
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\obj\Debug\net6.0\Sesion4-Estructuras-Control.csproj.AssemblyReference.cache
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\obj\Debug\net6.0\Sesion4-Estructuras-Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\obj\Debug\net6.0\Sesion4-Estructuras-Control.AssemblyInfoInputs.cache
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\obj\Debug\net6.0\Sesion4-Estructuras-Control.AssemblyInfo.cs
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\obj\Debug\net6.0\Sesion4-Estructuras-Control.csproj.CoreCompileInputs.cache
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\obj\Debug\net6.0\Sesion4-Estructuras-Control.dll
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\obj\Debug\net6.0\refint\Sesion4-Estructuras-Control.dll
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\obj\Debug\net6.0\Sesion4-Estructuras-Control.pdb
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\obj\Debug\net6.0\Sesion4-Estructuras-Control.genruntimeconfig.cache
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion4-Estructuras-Control\obj\Debug\net6.0\ref\Sesion4-Estructuras-Control.dll

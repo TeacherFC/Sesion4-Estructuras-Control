@@ -11,5 +11,10 @@ namespace Sesion5_ControlesFormulario
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

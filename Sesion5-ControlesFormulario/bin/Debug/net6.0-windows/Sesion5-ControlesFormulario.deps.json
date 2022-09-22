@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Sesion4-Estructuras-Control/1.0.0": {
+      "Sesion5-ControlesFormulario/1.0.0": {
         "runtime": {
-          "Sesion4-Estructuras-Control.dll": {}
+          "Sesion5-ControlesFormulario.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Sesion4-Estructuras-Control/1.0.0": {
+    "Sesion5-ControlesFormulario/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

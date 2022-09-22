@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sesion4-Estructuras-Control", "Sesion4-Estructuras-Control.csproj", "{30B3B93C-445F-4266-A62F-310D7F44D3E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sesion4-Estructuras-Control", "Sesion4-Estructuras-Control.csproj", "{30B3B93C-445F-4266-A62F-310D7F44D3E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{1011BA71-1BD6-43B5-80D7-35472FE105A3}"
+	ProjectSection(SolutionItems) = preProject
+		Condicional.cs = Condicional.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sesion5-ControlesFormulario", "..\Sesion5-ControlesFormulario\Sesion5-ControlesFormulario.csproj", "{3773E7A3-5729-4FB2-9DE3-B98BF7DE1BF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +22,10 @@ Global
 		{30B3B93C-445F-4266-A62F-310D7F44D3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30B3B93C-445F-4266-A62F-310D7F44D3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30B3B93C-445F-4266-A62F-310D7F44D3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3773E7A3-5729-4FB2-9DE3-B98BF7DE1BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3773E7A3-5729-4FB2-9DE3-B98BF7DE1BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3773E7A3-5729-4FB2-9DE3-B98BF7DE1BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3773E7A3-5729-4FB2-9DE3-B98BF7DE1BF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

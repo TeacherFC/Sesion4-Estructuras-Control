@@ -18,3 +18,4 @@ C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion6-ControlesAvanzad
 C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion6-ControlesAvanzados\obj\Debug\net6.0-windows\Sesion6_ControlesAvanzados.ListadoOpciones.resources
 C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion6-ControlesAvanzados\obj\Debug\net6.0-windows\Sesion6_ControlesAvanzados.RegistroCliente.resources
 C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion6-ControlesAvanzados\obj\Debug\net6.0-windows\Sesion6_ControlesAvanzados.RegistroProductos.resources
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion6-ControlesAvanzados\obj\Debug\net6.0-windows\Sesion6_ControlesAvanzados.MenuMDI.resources

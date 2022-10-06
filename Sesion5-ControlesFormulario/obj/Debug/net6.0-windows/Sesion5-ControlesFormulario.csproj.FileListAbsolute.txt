@@ -17,3 +17,4 @@ C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion5-ControlesFormula
 C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion5-ControlesFormulario\obj\Debug\net6.0-windows\Sesion5-ControlesFormulario.pdb
 C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion5-ControlesFormulario\obj\Debug\net6.0-windows\Sesion5-ControlesFormulario.genruntimeconfig.cache
 C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion5-ControlesFormulario\obj\Debug\net6.0-windows\ref\Sesion5-ControlesFormulario.dll
+C:\Users\ferca\source\repos\Sesion4-Estructuras-Control\Sesion5-ControlesFormulario\obj\Debug\net6.0-windows\Sesion5_ControlesFormulario.Calendario.resources
